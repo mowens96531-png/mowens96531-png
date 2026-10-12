@@ -27,4 +27,6 @@ I’m interested in businesses where a useful capability becomes infrastructure 
 
 [Technical Deep-Dives](https://github.com/mowens96531-png/technical-deep-dives) includes notes on Strainwave, WarrantyBrain, Fluxor, and the historical BarbellAI work. The public notes explain the reasoning and respect the IP boundary.
 
+Strainwave inquiries: [mike@strainwave.io](mailto:mike@strainwave.io).
+
 [Website and contact](https://www.michaelpowens.com)
